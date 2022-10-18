@@ -4,11 +4,11 @@ Samples that can be applied on the craft of bash scripts.
 
 | file                      | features                                |
 |---------------------------|-----------------------------------------|
-| check-command-exist.sh    | Check if a program/command is available | 
-| colours.sh                | Variables and helper function for colored text. |
-| isolate-file-path-info.sh | Break down the path info of a file. |
-| parameters-using-bash.sh  | Ways to handle input parameters (including stdin for pipe). |
-| read-piped-value.sh       | Simple way to read from pipe |
+| [check-command-exist.sh](check-command-exist.sh)    | Check if a program/command is available | 
+| [colours.sh](colours.sh)                | Variables and helper function for colored text. |
+| [isolate-file-path-info.sh](isolate-file-path-info.sh) | Break down the path info of a file. |
+| [parameters-using-bash.sh](parameters-using-bash.sh)  | Ways to handle input parameters (including stdin for pipe). |
+| [read-piped-value.sh](read-piped-value.sh)       | Simple way to read from pipe |
 
 ## How to contribute
 
