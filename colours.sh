@@ -18,7 +18,7 @@ __="\033[0m"
 # Helpre to display text with support tobackslash escapes (-e), 
 # reseting the colour after. Requires "\n" to break lines.
 say() {
-    echo -ne $1${__}
+    echo -ne "${1}${__}"
 }
 
 say "This ${__cy}is a ${__}colorful ${__re}message${__}..."
